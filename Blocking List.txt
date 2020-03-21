@@ -1,0 +1,51 @@
+! 3/21/2020 https://www.cnn.com
+www.cnn.com###footer-nav-container
+
+! 3/21/2020 https://www.nbcnews.com
+www.nbcnews.com##.hfsf
+
+! 3/21/2020 https://abcnews.go.com
+abcnews.go.com##._footer
+
+! 3/21/2020 https://github.com
+github.com##.p-responsive.width-full.container-lg.footer
+
+! 3/21/2020 https://www.foxnews.com
+www.foxnews.com##.site-footer
+
+! 3/21/2020 https://www.google.com
+www.google.com##.fbar
+
+! 3/21/2020 https://www.facebook.com
+www.facebook.com##._45mq
+
+! 3/21/2020 https://www.npr.org
+www.npr.org##div.npr-footer__module:nth-of-type(4)
+www.npr.org##.npr-footer__module-group
+www.npr.org##.npr-footer__module--secondary.npr-footer__module
+www.npr.org##.has-archive.agg-archive-search-tools
+
+! 3/21/2020 https://duckduckgo.com
+duckduckgo.com##.footer
+
+! 3/21/2020 https://www.walmart.com
+www.walmart.com###js-global-footer-wrapper
+
+! 3/21/2020 https://www.amazon.com
+www.amazon.com###navFooter
+
+! 3/21/2020 https://play.google.com
+play.google.com##.RRKTjb
+
+! 3/21/2020 https://www.tapbots.com
+||www.tapbots.com/img/header2_bg.jpg$image
+www.tapbots.com###about
+www.tapbots.com###footer
+
+! 3/21/2020 https://momandpopcorn.com
+momandpopcorn.com##.wrapper > h2
+momandpopcorn.com##.site-footer
+
+! 3/21/2020 https://extendthemes.com
+extendthemes.com##.footer-content
+extendthemes.com##.footer-bg-accent.bottom-bar
